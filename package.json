@@ -1,0 +1,12 @@
+{
+  "name": "TestProject",
+  "version": "1.0.0",
+  "description": "Example of creating a function that runs as a cron job using the serverless `schedule` event",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "newman": "^5.3.0",
+    "newman-reporter-htmlextra": "^1.22.1",
+    "nodemailer": "^6.6.3"
+  }
+}
